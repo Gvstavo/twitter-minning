@@ -1,0 +1,5 @@
+executar o comando para criar a pasta vendor e importar o conteudo do diretorio git para obter a classe de objeto do twitter
+
+	php composer.phar require j7mbo/twitter-api-php
+
+é importante ter o arquivo composer.phar no mesmo nível de diretório 
